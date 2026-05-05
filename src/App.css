@@ -1,0 +1,27 @@
+/* App Main Styles */
+#root {
+  width: 100%;
+}
+
+/* Main layout wrapper */
+main {
+  width: 100%;
+}
+
+/* Ensure sections span full width */
+section {
+  width: 100%;
+}
+
+/* Footer wrapper */
+footer {
+  width: 100%;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+
